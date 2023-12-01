@@ -1,0 +1,1 @@
+This is a cold room/truck temperature monitoring system built using Arduino Tinkercad. Targeted for cold rooms and trucks that store green produce such as Herbs. 
